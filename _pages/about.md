@@ -16,6 +16,7 @@ profile:
 
 news: false
 selected_papers: true 
+software: false
 social: false 
 ---
 
