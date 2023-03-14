@@ -11,7 +11,7 @@ profile:
   university: <a href="https://www.tsinghua.edu.cn/en/"> Tsinghua University </a>
   location:  Room 11-301, East-Main Building, Tsinghua University, Beijing, China
   email: yujz21@mails.tsinghua.edu.cn
-  # image: me.jpg
+  image: me.jpg
   # image_cicular: false
 
 news: false
