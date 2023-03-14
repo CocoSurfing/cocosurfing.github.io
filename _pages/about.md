@@ -7,7 +7,7 @@ profile:
   name: Junze Yu
   degree: Currently M.Sc., advised by <a href="https://sites.google.com/site/jiangyu198964/home">Prof. Yu Jiang</a>
   group: <a href="http://www.wingtecher.com/personen">Software System Security Assurance Group — WingTecher Lab</a>
-  institute:  <a href="https://www.thss.tsinghua.edu.cn/en/index.htm">School of Software</a>
+  institute:  <a href="https://www.thss.tsinghua.edu.cn/en/index.htm">School of Software Engineering</a>
   university: <a href="https://www.tsinghua.edu.cn/en/"> Tsinghua University </a>
   location:  Room 11-301, East-Main Building, Tsinghua University, Beijing, China
   email: yujz21 dot mails.tsinghua.edu.cn
