@@ -15,7 +15,7 @@ layout: default
           <div class="table-responsive width:100%">
             <table class="table table-sm table-borderless">
             <tr>
-              <td width="30%"" height=""50>
+              <td width="30%" height="50%">
                 <div class="profile-img">
                   {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
       
@@ -32,9 +32,10 @@ layout: default
                   alt=page.profile.image -%}
                 </div>
               </td>
-              <td "width:70%">
-                <div class="profile-content">
-                  <p><b><big>{{ page.profile.name }}</big></b><br>
+              <td>
+                <div class="profile-content" style="margin: 20px">
+                  <p>
+                  <b><big>{{ page.profile.name }}</big></b><br>
                   {{ page.profile.degree }}<br>
                   {{ page.profile.group }}<br>
                   {{ page.profile.institute }}<br>
